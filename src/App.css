@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cards {
+    display: flex;
+    flex-direction: row;
+    column-gap: 10px;
+}
+img {
+    height: 200px;
+    padding: 20px;
+}
+.footer {
+    padding: 20px;
+}
